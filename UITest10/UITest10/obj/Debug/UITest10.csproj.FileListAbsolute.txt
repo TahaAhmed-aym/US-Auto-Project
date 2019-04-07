@@ -1,0 +1,27 @@
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\bin\Debug\UITest10.dll
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\bin\Debug\UITest10.pdb
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\bin\Debug\nunit.framework.dll
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\bin\Debug\Xamarin.UITest.dll
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\bin\Debug\nunit.framework.xml
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\bin\Debug\Xamarin.UITest.xml
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\obj\Debug\UITest10.csprojResolveAssemblyReference.cache
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\obj\Debug\UITest10.dll
+c:\users\umar khan\documents\visual studio 2017\Projects\UITest10\UITest10\obj\Debug\UITest10.pdb
+D:\Pampers-Automation\UITest10\UITest10\UITest10\bin\Debug\UITest10.dll
+D:\Pampers-Automation\UITest10\UITest10\UITest10\bin\Debug\UITest10.pdb
+D:\Pampers-Automation\UITest10\UITest10\UITest10\bin\Debug\nunit.framework.dll
+D:\Pampers-Automation\UITest10\UITest10\UITest10\bin\Debug\Xamarin.UITest.dll
+D:\Pampers-Automation\UITest10\UITest10\UITest10\bin\Debug\nunit.framework.xml
+D:\Pampers-Automation\UITest10\UITest10\UITest10\bin\Debug\Xamarin.UITest.xml
+D:\Pampers-Automation\UITest10\UITest10\UITest10\obj\Debug\UITest10.csprojResolveAssemblyReference.cache
+D:\Pampers-Automation\UITest10\UITest10\UITest10\obj\Debug\UITest10.dll
+D:\Pampers-Automation\UITest10\UITest10\UITest10\obj\Debug\UITest10.pdb
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\bin\Debug\UITest10.dll
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\bin\Debug\UITest10.pdb
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\bin\Debug\nunit.framework.dll
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\bin\Debug\Xamarin.UITest.dll
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\bin\Debug\nunit.framework.xml
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\bin\Debug\Xamarin.UITest.xml
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\obj\Debug\UITest10.csprojResolveAssemblyReference.cache
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\obj\Debug\UITest10.dll
+D:\TAHA AHMED\Pampers\Pamper automation\Pamper UI Automation\UITest10\UITest10\UITest10\obj\Debug\UITest10.pdb
